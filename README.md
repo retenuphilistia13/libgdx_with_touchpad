@@ -1,2 +1,2 @@
 # libgdx_with_touchpad
-simple demonstration of character movement using Touch-pad
+ simple demonstration of how to make charchter move using touchpad in libgdx
